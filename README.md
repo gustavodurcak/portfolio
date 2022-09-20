@@ -1,5 +1,5 @@
 # MI PORTFOLIO
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true](https://github.com/gustavodurcak/portfolio/blob/main/imagenes/Captura%20de%20Pantalla%202022-09-19%20a%20la(s)%2019.png))
 
 ## Ejemplo en vivo
 [(https://gustavodurcak.github.io/portfolio/)](https://gustavodurcak.github.io/portfolio/)
